@@ -1,4 +1,3 @@
-- 👋 Olá, sou Isaías Leite e este é meu perfil
 
 <div align="center">
   <a href="https://github.com/mactavishkkk">
