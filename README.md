@@ -6,4 +6,4 @@ Também atuei e contribui com hackathons, competições, projetos voluntários e
 
 Nós últimos 2 anos, venha trabalhando profissionalmente com estas tecnologias: PHP, JavaScript, Typescript, PostgreSQL, Laravel, React, Git, Docker, AWS, Azure, Ansible, Pentaho e dentre outras.
 
-Linkedin: [https://github.com/mactavishkkk](https://www.linkedin.com/in/isa%C3%ADas-leite-2048551a3/)
+Linkedin: https://www.linkedin.com/in/isa%C3%ADas-leite-2048551a3/
