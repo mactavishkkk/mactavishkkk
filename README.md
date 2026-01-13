@@ -1,9 +1,9 @@
-Hoje em dia sou desenvolvedor de softwares há mais de 2 anos. Ao longo desse tempo pude participar de projetos acadêmicos onde desenvolvi o senso de trabalho em equipe, a pesquisa e a ciência. 
+Sou um desenvolvedor de softwares motivado pela curiosidade. Atuo na área de software há mais de 4 anos. 
 
-Também tive a oportunidade de participar de hackathons, competições e projetos voluntários em minha cidade natal.
+Ao longo desse tempo pude contribuir com projetos de várias escalas, com pequenas, médias e grandes massas de dados, regras de negócios específicas, entregando valor para: +5, +20, +200 usuários, liderando times e tomando decisões.
 
-Atualmente trabalho com: C, C#, PHP, HTML, CSS, JavaScript, Typescript, Python, bancos de dados relacionais, APIs Rest, testes unitários, metodologias ágeis e algumas outras tecnologias do ecossistema das mesmas.
+Também atuei e contribui com hackathons, competições, projetos voluntários e acadêmicos. 
 
-Hoje possuo sólidas experiências em frameworks e bibliotecas como: .NET, Laravel, Zend, PHPUnit, Reactjs, React-Native, Angular, Styled-Components, Bootstrap, Tailwind, dentre outras.
+Nós últimos 2 anos, venha trabalhando profissionalmente com estas tecnologias: PHP, JavaScript, Typescript, PostgreSQL, Laravel, React, Git, Docker, AWS, Azure, Ansible, Pentaho e dentre outras.
 
-Assim como as boas práticas da metodologia ágil e do Devops como: Scrum, Kanban, Git, GitHub, Docker, Deployment, CI/CD, Bash Script, RabbitMQ e dentre outras.
+Linkedin: [https://github.com/mactavishkkk](https://www.linkedin.com/in/isa%C3%ADas-leite-2048551a3/)
